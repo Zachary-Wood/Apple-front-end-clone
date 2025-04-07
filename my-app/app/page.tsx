@@ -2,6 +2,7 @@
 import { Navbar } from "./components/Navbar";
 import Iphone16 from "./components/Iphone16";
 import Iphone162 from "./components/Iphone162";
+import Applewatch from "./components/Applewatch";
 
 export default function Home() {
   return (
@@ -9,6 +10,8 @@ export default function Home() {
         <Navbar />
         <Iphone16 />
         <Iphone162 />
+        <Applewatch />
+
    </div>
   );
 }

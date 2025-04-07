@@ -7,8 +7,8 @@ function Iphone162() {
         <h1 className="text-6xl font-bold">iPhone 16 Pro</h1>
         <h3 className="text-2xl mt-3">Built for Apple Intelligence</h3>
         <div className="mt-6">
-          <button className="bg-blue-500 text-white py-2 px-6 rounded-full mr-4">Learn More</button>
-          <button className="bg-none border-2 border-blue-500 text-white py-2 px-6 rounded-full">Buy</button>
+          <button className="bg-white text-black py-2 px-6 rounded-full mr-4 cursor-pointer">Learn More</button>
+          <button className="bg-none border-2 border-white text-white py-2 px-6 rounded-full cursor-pointer">Buy</button>
         </div>
       </div>
     </div>
