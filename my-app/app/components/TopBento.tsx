@@ -2,7 +2,7 @@
 
 function TopBento() {
   return (
-    <div className="grid grid-cols-2 gap-3 w-full p-3">
+    <div className="grid grid-cols-2 gap-3 w-full p-3 pt-0">
         
         <div className="mt-[10px] bg-[url('/images/wddc.jpg')] w-45% h-150 bg-cover bg-center flex flex-col items-center justify-center">
             <p className="pt-100 text-black text-xl text-center">Apple Worldwide Developers Conference.</p>
@@ -23,7 +23,7 @@ function TopBento() {
                 </div>
 
 
-                <p className="pt-80 text-transparent bg-clip-text bg-gradient-to-r from-[#ff5fc8] via-[#6a5cff] to-[#00c3ff] font-semibold text-lg">
+                <p className="pt-80 text-transparent bg-clip-text bg-gradient-to-r from-[#ff5fc8] via-[#6a5cff] to-[#00c3ff] font-semibold text-md">
                     Built for Apple Intelligence
                 </p>
 

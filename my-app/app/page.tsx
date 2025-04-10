@@ -4,6 +4,7 @@ import Iphone16 from "./components/Iphone16";
 import Iphone162 from "./components/Iphone162";
 import Applewatch from "./components/Applewatch";
 import TopBento from "./components/TopBento";
+import MiddleBento from "./components/MiddleBento";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
         <Iphone162 />
         <Applewatch />
         <TopBento />
+        <MiddleBento/>
 
    </div>
   );
