@@ -5,7 +5,7 @@ export const Navbar = () => {
   return (
     <div className="fixed top-0 w-full bg-[rgba(0,0,0,0.8)] z-50">
       <div className="flex flex-row justify-between items-center gap-4 sm:gap-6 md:gap-8 lg:gap-8 mx-auto cursor-pointer text-xs w-3/5 p-4">
-        <FaApple className="text-lg" />
+        <FaApple className="text-lg text-white" />
         <p>Store</p>
         <p>Mac</p>
         <p>iPad</p>
@@ -17,8 +17,8 @@ export const Navbar = () => {
         <p>Entertainment</p>
         <p>Accessories</p>
         <p>Support</p>
-        <FaSearch className="text-lg" />
-        <IoBagOutline className="text-lg" />
+        <FaSearch className="text-lg text-white" />
+        <IoBagOutline className="text-lg text-white" />
       </div>
     </div>
   );
