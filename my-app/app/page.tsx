@@ -7,6 +7,7 @@ import TopBento from "./components/TopBento";
 import MiddleBento from "./components/MiddleBento";
 import BottomBento from "./components/BottomBento";
 import Carousel from "./components/Carousel";
+import SlidingCarousel from "./components/SlidingCarousel";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
         <MiddleBento/>
         <BottomBento />
         <Carousel />
+        <SlidingCarousel />
 
    </div>
   );
