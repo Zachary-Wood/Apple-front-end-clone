@@ -8,6 +8,7 @@ import MiddleBento from "./components/MiddleBento";
 import BottomBento from "./components/BottomBento";
 import Carousel from "./components/Carousel";
 import SlidingCarousel from "./components/SlidingCarousel";
+import { Footer } from "./components/Footer";
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
         <BottomBento />
         <Carousel />
         <SlidingCarousel />
+        <Footer/>
 
    </div>
   );
