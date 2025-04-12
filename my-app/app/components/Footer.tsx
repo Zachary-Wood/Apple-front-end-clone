@@ -2,10 +2,9 @@ import React from "react";
 
 export const Footer = () => {
   return (
-    <footer className="bg-neutral-100 text-neutral-600 text-xs leading-relaxed mt-20 w-full">
+    <footer className="bg-neutral-100 text-neutral-600 text-xs leading-relaxed mt-10 w-full">
       <div className="max-w-7xl mx-auto px-4 py-10 space-y-6">
 
-        {/* Legal Text */}
         <div className="space-y-4">
           <p>
             1. Hearing Aid and Hearing Test: The Hearing Aid feature has received FDA authorization. The Hearing Test and Hearing Aid features are supported on AirPods Pro 2 with the latest firmware paired with a compatible iPhone or iPad with iOS 18 or iPadOS 18 and later and are intended for people 18 years old or older. The Hearing Aid feature is also supported on a compatible Mac with macOS Sequoia and later. It is intended for people with perceived mild to moderate hearing loss.
