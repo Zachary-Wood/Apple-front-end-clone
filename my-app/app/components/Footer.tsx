@@ -2,7 +2,7 @@ import React from "react";
 
 export const Footer = () => {
   return (
-    <footer className="bg-neutral-100 text-neutral-600 text-xs leading-relaxed mt-20">
+    <footer className="bg-neutral-100 text-neutral-600 text-xs leading-relaxed mt-20 w-full">
       <div className="max-w-7xl mx-auto px-4 py-10 space-y-6">
 
         {/* Legal Text */}
@@ -28,7 +28,7 @@ export const Footer = () => {
           </p>
         </div>
 
-        {/* Footer Links */}
+       
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 text-neutral-700">
           {[
             { title: "Shop and Learn", items: ["Store", "Mac", "iPad", "iPhone", "Watch", "Vision", "AirPods", "TV & Home", "AirTag", "Accessories", "Gift Cards"] },
