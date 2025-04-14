@@ -1,14 +1,8 @@
-import type { NextConfig } from "next";
+import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
-
-  output: 'export',
-  
-  
-  distDir: 'out',
-
- 
-  reactStrictMode: true,
+  output: 'export', 
+  distDir: 'out', 
 };
 
 export default nextConfig;
