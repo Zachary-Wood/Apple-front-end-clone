@@ -53,7 +53,11 @@ This mock frontend mirrors the sleek, minimal aesthetic of Apple's design langua
 
 ## 📸 Screenshot
 
-*Add a screenshot of your app here to make the README pop!*
+![Banner](images/appleclone.png)
+
+
+
+
 
 ## 📦 Installation
 
