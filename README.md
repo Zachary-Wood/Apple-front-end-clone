@@ -60,7 +60,7 @@ This mock frontend mirrors the sleek, minimal aesthetic of Apple's design langua
 If you’d like to run the project locally:
 
 ```bash
-git clone https://github.com/yourusername/apple-mock-frontend.git
+git clone https://github.com/Zachary-Wood/Apple-front-end-clone
 cd apple-mock-frontend
 npm install
 npm run dev
