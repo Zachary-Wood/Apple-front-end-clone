@@ -61,7 +61,7 @@ If you’d like to run the project locally:
 
 ```bash
 git clone https://github.com/Zachary-Wood/Apple-front-end-clone
-cd apple-mock-frontend
+cd my-app
 npm install
 npm run dev
 
